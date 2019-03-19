@@ -1,7 +1,7 @@
 /*
  * Submission date: March 18, 2019
  * Runtime: 60ms
- * Faster than: 34.9%
+ * Faster than: 93.88%
  * Memory Usage: 34.9 MB
  * Less than: Not sure
  */
