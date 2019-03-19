@@ -1,2 +1,4 @@
 # leetcode-js
-A collection of my solutions for LeetCode problems in JavaScript.
+A collection of my solutions for LeetCode problems in JavaScript. This website is a really fun and great way to practice your coding ability and develop your problem solving skills. This repository contains my solutions to the various problems presented on LeetCode. All code listed here is completely original unless I explicitly state otherwise (for example, if I read another person's solutions and make amendments to my own, I will reference and give credit to the source that I read).
+
+The goal of this repository is to demonstrate what I believe to be efficient and practical solutions to the LeetCode problems. I attempt to be reasonable when it comes to choosing between optimizing for performance and optimizing for memory usage. The time and date of when I submit solutions are noted in the solutions themselves, as well as the runtime and memory usage performance statistics; so you can see how they compare with others' solutions.
